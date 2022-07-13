@@ -1,6 +1,6 @@
 package.json
 package-lock.json
-.eslitnrc
-.eslitnignore
+.eslintrc
+.eslintignore
 /src/doc.txt
-note_modules
+node_modules

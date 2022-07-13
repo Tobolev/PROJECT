@@ -1,0 +1,6 @@
+package.json
+package-lock.json
+.eslitnrc
+.eslitnignore
+/src/doc.txt
+note_modules
